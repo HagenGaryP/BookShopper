@@ -7,7 +7,7 @@ to demonstrate the ability to build a site from scratch with a persistent cart.
 It was originally for books, but currently is using dummy data from the "Chance" library.
 
 
-- [Book-Shopper](https://book-shopper.herokuapp.com/) - Our deployed site.
+- [BookShopper](https://bookshopper-app.herokuapp.com/) - Our deployed site.
 
 ## Features
 
