@@ -1,13 +1,13 @@
 # BookShopper
 
-Practicing techniques like pagination, sorting, filtering, Search bars, and authentication.
-
 BookShopper was a mock e-commerce web application for Fullstack Academy's "Grace Shopper" project,
 to demonstrate the ability to build a site from scratch with a persistent cart.
-It was originally for books, but currently is using dummy data from the "Chance" library.
+It was originally for books but currently is using dummy data from the "Chance" library,
+and uses techniques like pagination, sorting, filtering, Search bars, and authentication.
 
 
-- [BookShopper](https://bookshopper-app.herokuapp.com/) - Our deployed site.
+## Deployed on Heroku
+- [BookShopper](https://bookshopper-app.herokuapp.com/)
 
 ## Features
 
@@ -33,7 +33,7 @@ It was originally for books, but currently is using dummy data from the "Chance"
 
 ## Requirements
 
-- [Node v7.6+](https://nodejs.org/en/download/current/)
+- [Node v12+](https://nodejs.org/en/download/current/)
 - [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 # Getting Started
