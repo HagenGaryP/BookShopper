@@ -14,18 +14,16 @@ export const LandingPage = () => {
           <div className="front-page-welcome">
             <div>
               <h1 className="front-display-text">
-                Buy The Best Books From <br />
-                Around The World
+                The Best Books From Around The World
               </h1>
               <p className="subtext">
                 Browse through our vibrant collection of books. Search by Author
-                or by Genre. <br />
-                Check out our clearance section for plenty of discounts!
+                or by Genre.
               </p>
             </div>
             <div className="front-page-buttons">
               <Link to="/books">
-                <Button variant="outline-light button-margin">All Books</Button>
+                <Button variant="outline-light button-margin">click to view selection!</Button>
               </Link>
             </div>
           </div>
