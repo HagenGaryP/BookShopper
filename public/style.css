@@ -19,7 +19,7 @@ form div {
 }
 
 /* This is a container for all the content on the page
-to prevent the navbar from overlapping anything near the top. 
+to prevent the navbar from overlapping anything near the top.
 */
 .content {
   padding-top: 75px;
@@ -30,7 +30,7 @@ to prevent the navbar from overlapping anything near the top.
   display: flex;
   height: 350px;
   justify-content: space-between;
-  background-color: #ff9020;
+  background-color: #0447ff;
   align-items: center;
 }
 
@@ -84,7 +84,7 @@ to prevent the navbar from overlapping anything near the top.
 }
 
 .welcome {
-  background-color: #ff9020;
+  background-color: #0447ff;
   height: 80px;
   display: flex;
   align-items: center;
@@ -245,7 +245,7 @@ to prevent the navbar from overlapping anything near the top.
 }
 
 .all-products-container::after {
-  content: '';
+  /* content: ''; */
   flex: auto;
 }
 
