@@ -5,15 +5,6 @@ const {Op} = require('sequelize')
 
 module.exports = router
 
-router.get('/', async (req, res, next) => {
-  try {
-    const allProducts = await Product.findAll()
-    res.json(allProducts)
-  } catch (err) {
-    next(err)
-  }
-})
-
 //Get all products (Books)
 router.put('/', async (req, res, next) => {
   try {
